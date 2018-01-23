@@ -1,3 +1,6 @@
 def collect(array)
-  i = log10
+  i = 0
+  while i < array.length
+  block_given?
+  
 
